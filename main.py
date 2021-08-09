@@ -10,3 +10,4 @@ lenPdf = pdf.getNumPages()
 x = pdf.getPage(0)
 
 print(x.extractText())
+#
